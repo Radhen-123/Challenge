@@ -4,4 +4,4 @@ project(Challenge)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(Challenge
-        main.cpp)
+        main.cpp HelperFunction.h)
